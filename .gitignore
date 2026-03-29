@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/
+*.Rproj
+*.RData
+*.rds
+*.qs
+.DS_Store
